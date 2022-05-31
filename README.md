@@ -20,6 +20,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ec4843?style=for-the-badge&logo=java&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![c#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Front-End Development
 
