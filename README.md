@@ -40,11 +40,12 @@
 ### Backend as a Service (BaaS)
 
 ![nodejs](https://img.shields.io/badge/Node_Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![nestJs](https://img.shields.io/badge/Nest_Js-205375?style=for-the-badge&logo=nestjs&logoColor=white)
+![nestJs](https://img.shields.io/badge/Nest_Js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![spring-boot](https://img.shields.io/badge/Spring_Boot-36AE7C?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![mongoDB](https://img.shields.io/badge/mongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)
+![mongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![sql](https://img.shields.io/badge/MySql-205375?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -56,6 +57,7 @@
 
 ## 🖥️ Workspace Setup
 
+![msi-gf63](https://img.shields.io/badge/MSI-gf63_thin_9scsr-FF0000?style=for-the-badge&logo=msi&logoColor=white)
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
