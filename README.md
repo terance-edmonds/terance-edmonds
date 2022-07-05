@@ -2,15 +2,16 @@
 
 ## 🚀 About Me
 
-🎓 I'm Terance Edmonds, a self learning **Web Developer** (specializing in **React** & **Node Js** Applications) and a **Freelancer**. I am also Pursuing my Bachelor in **Computer Science** and will graduate in mid-2026.
+🎓 I'm Terance Edmonds, a self learning **Programmer** (specializing in **React** & **Node Js** Applications) and a **Freelancer**. I am also Pursuing my Bachelor in **Computer Science** and will graduate in mid-2026.
 
-🎸 Other than my coding life my hobbies range from **guitar**, **games** and **observing**.
+🎸 Other than my coding life my hobbies range from **guitar**, **games**, **music** and **observing**.
 
 
 ## 🏅 Experience
 
--   ☕ Freelance - Web developer
--   💻 Jware Automation - Leading web developer & project supervisor in a startup company (Intern) (May 2021-2022)
+-   ☕ Freelance - Web & Chrome extension developer
+-   👨‍💻 Radical Ledger Technologies - Web application developer (June 2021 - Present)
+-   💻 Jware Automation - Leading web developer & project supervisor in a startup company (Intern) (May 2021 - May 2022)
 
 ## 🛠️ Skills
 
@@ -68,8 +69,8 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://terance.ml/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://terance.ml/cv/Terance_Edmonds-CV.pdf)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://taedmonds.com/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://taedmonds.com/cv/Terance_Edmonds-CV.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/terance-edmonds/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/terance-edmonds)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:teranceedmonds20@gmail.com)
