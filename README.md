@@ -9,8 +9,9 @@
 
 ## 🏅 Experience
 
--   ☕ Freelance - Web & Chrome extension developer
 -   👨‍💻 Radical Ledger Technologies - Web application developer (June 2021 - Present)
+-   😎 Nimax - Co-founder, Web developer & IT consultancy
+-   ☕ Freelance - Web & Chrome extension developer
 -   💻 Jware Automation - Leading web developer & project supervisor in a startup company (Intern) (May 2021 - May 2022)
 
 ## 🛠️ Skills
