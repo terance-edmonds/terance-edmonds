@@ -9,8 +9,8 @@
 
 ## 🏅 Experience
 
--   👨‍💻 Radical Ledger Technologies - Web application developer (June 2021 - Present)
--   😎 Nimax - Co-founder, Web developer & IT consultancy
+-   👨‍💻 Radical Ledger Technologies - FSD, consultancy and devops (June 2021 - Present)
+-   😎 Nimax - Co-founder, FSD & IT consultancy
 -   ☕ Freelance - Web & Chrome extension developer
 -   💻 Jware Automation - Leading web developer & project supervisor in a startup company (Intern) (May 2021 - May 2022)
 
@@ -19,9 +19,9 @@
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ec4843?style=for-the-badge&logo=java&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![c#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Front-End Development
@@ -45,12 +45,30 @@
 ![nodejs](https://img.shields.io/badge/Node_Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![nestJs](https://img.shields.io/badge/Nest_Js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![spring-boot](https://img.shields.io/badge/Spring_Boot-36AE7C?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Databases & Storage
+
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![mongoDB](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![sql](https://img.shields.io/badge/MySql-205375?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=527FFF&logo=Amazon+RDS&logoColor=FFFFFF&label=)
+![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
+
+### DevOps
+
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
+![docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
+
+### Other Tools & Libraries
+
+![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
+![MQTT](https://img.shields.io/static/v1?style=for-the-badge&message=MQTT&color=660066&logo=MQTT&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+
 
 ### Design Tools
 
@@ -63,7 +81,7 @@
 ![msi-gf63](https://img.shields.io/badge/MSI-gf63_thin_9scsr-FF0000?style=for-the-badge&logo=msi&logoColor=white)
 ![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![intellij](https://img.shields.io/badge/IntelliJ-e05d44?style=for-the-badge&logo=IntelliJ-Idea&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -76,3 +94,7 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/terance-edmonds)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:teranceedmonds20@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/t.a.edmonds/)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terance-edmonds&rank=SECRET,A,AA,AAA,S,SS,SSS" alt="terance-edmonds" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terance-edmonds&" alt="terance-edmonds" /></p>
