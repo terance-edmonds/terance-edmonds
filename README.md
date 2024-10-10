@@ -9,10 +9,9 @@
 
 ## 🏅 Experience
 
--   👨‍💻 Radical Ledger Technologies - FSD, consultancy and devops (June 2021 - Present)
--   😎 Nimax - Co-founder, FSD & IT consultancy
+-   👨‍💻 Radical Ledger Technologies - FSD, consultancy and DevOps
 -   ☕ Freelance - Web & Chrome extension developer
--   💻 Jware Automation - Leading web developer & project supervisor in a startup company (Intern) (May 2021 - May 2022)
+-   💻 Jware Automation - Leading web developer & project supervisor in a startup company (Intern)
 
 ## 🛠️ Skills
 
