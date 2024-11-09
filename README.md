@@ -10,7 +10,7 @@
 ## 🏅 Experience
 
 -   👨‍💻 WSO2 - Software Engineer ( Intern )
--   👨‍💻 Radical Ledger Technologies - FSD, consultancy and DevOps
+-   🤓 Radical Ledger Technologies - FSD, consultancy and DevOps
 -   ☕ Freelance - Web & Chrome extension developer
 -   💻 Jware Automation - Leading web developer & project supervisor in a startup company (Intern)
 
