@@ -11,6 +11,7 @@
 
 -   👨‍💻 WSO2 - Software Engineer ( Intern )
 -   🤓 Radical Ledger Technologies - FSD, consultancy and DevOps
+-   👔 Nimax Digital - Chief Technology Officer
 -   ☕ Freelance - Web & Chrome extension developer
 -   💻 Jware Automation - Leading web developer & project supervisor in a startup company (Intern)
 
