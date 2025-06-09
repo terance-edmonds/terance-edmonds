@@ -43,15 +43,15 @@ $ _
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=terance-edmonds&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-tawny-phi.vercel.app/api?username=terance-edmonds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td> 
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terance-edmonds&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-tawny-phi.vercel.app/api/top-langs/?username=terance-edmonds&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=clubhub-central&langs_count=8" alt="Top Languages" />
     </td> 
   </tr> 
   <tr> 
     <td colspan="2" align="center"> 
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=terance-edmonds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-lime-tau.vercel.app?user=terance-edmonds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr> 
 </table>
