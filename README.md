@@ -1,3 +1,14 @@
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="24" />
+    </td>
+    <td>
+      <code>$ echo "Console says hi. Glad you typed your way here."</code>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00FF9E&center=true&vCenter=true&width=1000&lines=Tools+change.+Fundamentals+don%E2%80%99t.;Co-Founder+%40+Nimax+Digital+%7C+Senior+FSD+%40+Radical+Ledger+%7C+Consultant+%7C+DevOps+Engineer;Innovate+fast.+Build+well.+Lead+with+purpose.;Passion+for+problem-solving.+Driving+scalable,+reliable+systems.;From+prototypes+to+production+%E2%80%94+delivering+impact+daily.;Bridging+business,+product,+and+engineering+with+clear+vision." alt="Typing animation" />
 </p>
