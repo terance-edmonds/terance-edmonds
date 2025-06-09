@@ -11,7 +11,7 @@
 
 -   👨‍💻 WSO2 - Software Engineer ( Intern )
 -   🤓 Radical Ledger Technologies - FSD, consultancy and DevOps
--   👔 Nimax Digital - Chief Technology Officer
+-   👔 Nimax Digital - Co-Founder, CTO
 -   ☕ Freelance - Web & Chrome extension developer
 -   💻 Jware Automation - Leading web developer & project supervisor in a startup company (Intern)
 
@@ -23,7 +23,8 @@
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ec4843?style=for-the-badge&logo=java&logoColor=white)
-![c#](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🤩 Front-End Development
 
