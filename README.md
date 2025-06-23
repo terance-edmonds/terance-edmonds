@@ -18,7 +18,7 @@ $ whoami
 👋 Terance Edmonds — Full-Stack Developer | Consultant | Co-Founder | DevOps Engineer
 
 $ stack --top
-🛠 React, Node.js, NestJS, MongoDB, AWS, Docker, GitHub Actions, Terraform, AWS ECS
+🛠 React, Node.js, NestJS, PostgreSQL, AWS, Docker, GitHub Actions, Kubernetes
 
 $ experience
 📍 Nimax Digital — Co-founder & CTO  
@@ -43,7 +43,7 @@ $ skills --primary
 🌐 JavaScript, TypeScript, Go, Python, Java  
 ⚙️ React, Next.js, NestJS, Spring Boot  
 📦 MongoDB, PostgreSQL, Firebase  
-🚀 Docker, AWS, Terraform, CI/CD, Kubernetes
+🚀 Kubernetes, Docker, AWS, Terraform, CI/CD
 
 $ motto
 "Tools change. Fundamentals don’t. I build to solve, learn to lead."
